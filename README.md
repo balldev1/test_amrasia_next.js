@@ -6,8 +6,8 @@
 
 ## การติดตั้ง
 
-git clone https://github.com/username/cat-lover-app.git
-cd cat-lover-app
+git clone https://github.com/balldev1/test_amrasia_next.js
+cd test_amrasia_next.js
 npm install
 add file .env.local -> JWT_SECRET=cat_super_secret_key_888
 docker-compose up -d - >รัน mongodb docker ในเครื่อง 
